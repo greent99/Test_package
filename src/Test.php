@@ -1,8 +1,8 @@
 <?php
 
 class Test {
-	public funtion test() {
-		echo "Test";
+	public function test() {
+		echo "Test123";
 	}
 
 }
